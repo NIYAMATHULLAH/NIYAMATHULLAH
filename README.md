@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NIYAMATHULLAH
+- 👋 Hi, I’m @Niyam
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning GCP | Kubernetes | Linux | Jenkins | AWS EC2 much more..
 - 💞️ I’m looking to collaborate on Linux
